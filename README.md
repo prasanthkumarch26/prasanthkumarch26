@@ -1,4 +1,4 @@
-## Hi there, I’m prasanth kumar chigilipalli
+## 👋Hi there, I’m prasanth kumar chigilipalli
 - 🌱 I'm currently working with machine learning and deep learning models using TensorFlow and scikit-learn.
 - 💻 I’m passionate about problem-solving, science, and technological advancements.
 - ⚡ Tech and anime enthusiast.
