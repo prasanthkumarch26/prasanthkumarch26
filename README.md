@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Prasanth Kumar Chigilipalli
 
-I'm a B.Tech Electrical Engineering student based in India, with a deep passion for leveraging **Machine Learning to solve real time critical problems**.
+I'm a B.Tech Electrical Engineering student based in India, with a deep passion for leveraging **Machine Learning to solve real world critical problems**.
 
 ---
 
