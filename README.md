@@ -9,7 +9,7 @@ I'm a B.Tech Electrical Engineering student based in India, with a deep passion 
 * **Machine Learning Development:** Particularly deep learning for computer vision and natural language processing.
 * **AI in Healthcare:** Developing innovative algorithms and tools to address medical problems like cancer detection, disease diagnosis, and personalized treatment.
 * **Data Science:** Data analysis, visualization, and uncovering insights from complex datasets.
-* **Web Development**
+* **Full-Stack Web Development:** Building aesthetically pleasing, responsive user interfaces and robust backend systems to create seamless, end-to-end web applications.
 
 ---
 
