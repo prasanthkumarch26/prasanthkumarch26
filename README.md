@@ -18,7 +18,7 @@ I'm a B.Tech Electrical Engineering student based in India, with a deep passion 
 * **Programming Languages:** Python, C++, JavaScript
 * **Machine Learning Libraries:** TensorFlow, PyTorch, Scikit-learn (actively working)
 * **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn (actively working)
-* **Web Development:** HTML, CSS, React, NextJS, Django, SQL, TailwindCSS, BootStrap, Shadcn
+* **Web Development:** HTML, CSS, React, NextJS, Django, SQL, TailwindCSS, BootStrap
 * **Tools & Technologies:** Git, GitHub
 * **Core Concepts:** Linear Algebra, Calculus, Probability & Statistics (strong foundation)
 
