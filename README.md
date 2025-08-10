@@ -1,6 +1,7 @@
-👋 Hi, I'm [**Prasanth Kumar Chigilipalli**](https://prasanthkumar.vercel.app/)
+### Hi there 👋
 
-I'm a B.Tech Electrical Engineering student based in India, with a deep passion for leveraging **Machine Learning to solve real world critical problems**.
+I'm [**Prasanth Kumar Chigilipalli**](https://prasanthkumar.vercel.app/), a B.Tech Electrical Engineering student based in India, with a deep passion for leveraging **Machine Learning to solve real world critical problems**.
+
 
 ---
 
