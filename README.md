@@ -2,7 +2,7 @@
 
 I'm [**Prasanth Kumar**](https://prasanthkumar.vercel.app), a software engineer based in India.
 
-I enjoy understanding complex systems and turning ideas into useful, scalable software.
+I enjoy understanding complex systems and turning ideas into reliable, scalable software.
 
 My interests span distributed systems, information retrieval, real-time applications, and the engineering challenges involved in building reliable products.
 
